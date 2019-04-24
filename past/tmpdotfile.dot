@@ -1,0 +1,7 @@
+digraph tmp1{
+    superclass1;
+    superclass2;
+    subclass;
+    superclass1 -> subclass;
+    superclass2 -> subclass;
+}

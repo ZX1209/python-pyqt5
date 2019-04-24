@@ -1,0 +1,5 @@
+# latex?
+
+$$
+a = Sin\alpha
+$$
